@@ -1,10 +1,40 @@
 {
   "posts": [
-    { "id": 1, "title": "Bikini Babes Gone Wild", "status": "locked", "cover_image": "http://i.imgur.com/kT5h7fk.jpg"},
-    { "id": 1, "title": "Babes on a Mother Father Boat", "status": "unlocked", "cover_image": "http://i.imgur.com/b2eoMVO.jpg"},
-    { "id": 1, "title": "I Only Need A Few Guns", "status": "free", "cover_image": "http://i.imgur.com/7xdYHjb.jpg"},
-    { "id": 1, "title": "Jet To Las Vegas To Win Moneyz", "status": "hybrid", "cover_image": "http://i.imgur.com/1CzChnn.jpg"},
-    { "id": 1, "title": "My Travel Companions are Hotter Than Yours", "status": "locked", "cover_image": "http://i.imgur.com/iyF68Dh.jpg"},
-    { "id": 1, "title": "Bikini Babes Gone Wild", "status": "locked", "cover_image": "http://i.imgur.com/kT5h7fk.jpg"},
+    {
+      "id": 1,
+      "title": "Bikini Babes Gone Wild",
+      "status": "locked",
+      "cover_image": "http://i.imgur.com/kT5h7fk.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Babes on a Mother Father Boat",
+      "status": "unlocked",
+      "cover_image": "http://i.imgur.com/b2eoMVO.jpg"
+    },
+    {
+      "id": 1,
+      "title": "I Only Need A Few Guns",
+      "status": "free",
+      "cover_image": "http://i.imgur.com/7xdYHjb.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Jet To Las Vegas To Win Moneyz",
+      "status": "hybrid",
+      "cover_image": "http://i.imgur.com/1CzChnn.jpg"
+    },
+    {
+      "id": 1,
+      "title": "My Travel Companions are Hotter Than Yours",
+      "status": "locked",
+      "cover_image": "http://i.imgur.com/iyF68Dh.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Bikini Babes Gone Wild",
+      "status": "locked",
+      "cover_image": "http://i.imgur.com/kT5h7fk.jpg"
+    }
   ]
 }
