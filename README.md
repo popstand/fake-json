@@ -1,2 +1,7 @@
 # fake-json
-fake json api for rando apps n stuff
+
+$ npm install -g json-server
+
+More info:
+
+https://github.com/typicode/json-server
